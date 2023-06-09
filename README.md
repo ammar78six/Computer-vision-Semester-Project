@@ -12,8 +12,6 @@ The indicators include : "Unsafe" for large distances and even if some objects a
 
 Once objects are detected, texts within them are drawn on the screen and a the objects are made virtually accessible by clicking on them and deriving their descriptions listed on.
 
-The user can find any product in the shelf that matches with the descriptions they have provided in the application. This is marked in a 'bold pink' color on the screen.
-
 Our detection algorithms have the capability to allow almost any user to find far-away shelf objects as well as to be integrated in self-assisting robots that can position themselves based upon our indicators and find products. 
 
 TO USE : 
