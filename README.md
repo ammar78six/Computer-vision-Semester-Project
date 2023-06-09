@@ -18,5 +18,5 @@ The user can find any product in the shelf that matches with the descriptions th
 
 Our detection algorithms have the capability to allow almost any user to find far-away shelf objects as well as to be integrated in self-assisting robots that can position themselves based upon our indicators and find products. 
 
-TO USE
+TO USE : 
 Simply fork this branch, pull it in Android Studio using VCS, build and deploy on your phone.
