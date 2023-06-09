@@ -5,10 +5,8 @@ Computer vision Semester Project
 We decided to take on the following approach:
 
 1)Use machine learning to detect objects and separate them
-2)Text Recognition to find object labels from a distance and detect if this is the product desired or not
-There were a few issues along the way. Since we wanted to find products as a whole, rather than the text matches only, we had to involve mathematics in most of our algorithms. One of the algorithms was entirely on screen graphics, such as to make sure that the products detected contained the entire text boxes and that they were appropriately scaled on different resolutions.
 
-Another issue that we faced was the lack of clear images. This required another algorithm for measuring the distance to an object using the image retrieved from the camera. Here we once again had to make use of our ML model and the object boxes to make sure that the user would position him/herself at a distance where all of the objects in the screen were comprehensible.
+Issue that we faced was the lack of clear images. This required another algorithm for measuring the distance to an object using the image retrieved from the camera. Here we once again had to make use of our ML model and the object boxes to make sure that the user would position him/herself at a distance where all of the objects in the screen were comprehensible.
 
 The indicators include : "Unsafe" for large distances and even if some objects are out of range, "Normal-Mid" for 70%-80% detection chances (optimal) and "Crystal Clear" for best results.
 
